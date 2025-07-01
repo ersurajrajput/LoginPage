@@ -7,13 +7,13 @@ This project contains a **cool-looking, modern UI** design for Login and Signup 
 ## 📱 Preview
 
 ### 🔐 Login Screen
-![Login Screen]([images/login_screen.png](https://github.com/ersurajrajput/LoginPage/blob/main/screenshots/login_Page.png))
+![Login Screen](https://github.com/ersurajrajput/LoginPage/blob/main/screenshots/login_page.png)
 
 ### 📝 Signup Screen
-![Signup Screen]([images/signup_screen.png](https://github.com/ersurajrajput/LoginPage/blob/main/screenshots/signup_Page.png))
+![Signup Screen](https://github.com/ersurajrajput/LoginPage/blob/main/screenshots/signup_Page.png)
 
 ### 🌈 UI Theme & Styling
-![UI Theme]([images/theme_preview.png](https://github.com/ersurajrajput/LoginPage/blob/main/screenshots/splash_Screen.png))
+![UI Theme](https://github.com/ersurajrajput/LoginPage/blob/main/screenshots/splash_Screen.png)
 
 ---
 
@@ -43,6 +43,4 @@ This project contains a **cool-looking, modern UI** design for Login and Signup 
 3. Update image assets and color themes as needed.
 
 ---
-
-## 📂 File Structure
 
